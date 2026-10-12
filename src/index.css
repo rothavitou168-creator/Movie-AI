@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Outfit', 'Kantumruy Pro', sans-serif;
+  }
+}
+
+.font-khmer {
+  font-family: 'Kantumruy Pro', sans-serif;
+}
+
+.font-khmer-display {
+  font-family: 'Koulen', cursive, sans-serif;
+}
+
+.font-mono-code {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Custom sleek studio scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0f1013;
+}
+::-webkit-scrollbar-thumb {
+  background: #2a2e37;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f59e0b;
+}

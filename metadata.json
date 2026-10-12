@@ -1,0 +1,6 @@
+{
+  "name": "CINEDUB Khmer - Movie Dialogue Dubbing Studio",
+  "description": "Professional video dubbing studio to upload MP4 movies, transcribe or enter screenplay scripts, and translate dialogues into authentic spoken Khmer with phonetic pronunciation, timing sync, and voiceover preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
